@@ -1,5 +1,6 @@
-#include <print>
+#include <cstdio>
 
 int main() {
-	std::print("Hello, world!\n");
+	printf("Hello, world!\n");
+	return 1;
 }
