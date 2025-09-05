@@ -1,8 +1,8 @@
-# Introduction to Paralell Programming assignments
+# Introduction to Parallel Programming assignments
 
 The assignments are tested on the Uppsalas's Linux servers and Windows 11.
 
-To run the release build on a UNIX-like OS, you need CMake, Make, and a C++ compiler in your path, then run
+To run the release build on a UNIX-like OS, you need CMake, Make, and a C++20 compiler in your path, then run
 ```shell
 mkdir build
 cd build
