@@ -6,7 +6,7 @@ mkdir build
 cd build
 cmake -DCMAKE_BUILD_TYPE=Release ..
 make
-./vulkan_isometric_projection
+./assignmentX/assX_exeY
 ```
 
 Where `X` and `Y` are replaced with the assignment and exercise number.
@@ -19,7 +19,7 @@ mkdir build
 cd build
 cmake ..
 cmake --build . --config Release
-assignmentX\Release\assX_exeY.exe
+.\assignmentX\Release\assX_exeY.exe
 ```
 
 Where `X` and `Y` are replaced with the assignment and exercise number.
