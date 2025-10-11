@@ -6,3 +6,4 @@ set(CMAKE_C_STANDARD 11)
 
 add_subdirectory(assignment1)
 add_subdirectory(assignment2)
+add_subdirectory(assignment3)
